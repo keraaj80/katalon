@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_testSPEditPage</name>
+   <tag></tag>
+   <elementGuidId>343256a8-343b-440e-b653-3e43f09f0141</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='spCommandBar']/div/div/div/div/div/div[2]/div[3]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;Edit&quot;] > span.ms-Button-flexContainer.flexContainer-106</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8d9f088e-1e44-4248-b628-ff28e3953c19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Button-flexContainer flexContainer-106</value>
+      <webElementGuid>49cdc007-14d4-46b6-b94d-73a4b79f7583</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automationid</name>
+      <type>Main</type>
+      <value>splitbuttonprimary</value>
+      <webElementGuid>1871d34c-9fd6-46d9-b38d-ce0250753670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>5e027a67-eae2-4bb7-8afa-73e996b653e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;spCommandBar&quot;)/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;ms-FocusZone css-77 ms-CommandBar root-99&quot;]/div[@class=&quot;ms-OverflowSet ms-CommandBar-secondaryCommand secondarySet-115&quot;]/div[@class=&quot;ms-OverflowSet-item item-103&quot;]/button[@class=&quot;ms-Button ms-Button--commandBar ms-CommandBarItem-link root-188&quot;]/span[@class=&quot;ms-Button-flexContainer flexContainer-106&quot;]</value>
+      <webElementGuid>d332465c-d3e6-4fe4-b661-8b569af47146</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='spCommandBar']/div/div/div/div/div/div[2]/div[3]/button/span</value>
+      <webElementGuid>8ca99715-8ec7-48c5-be54-a3dc8cb5dcee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/button/span</value>
+      <webElementGuid>f431597d-850c-4ddb-bf65-a2ccefcff553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Edit' or . = 'Edit')]</value>
+      <webElementGuid>e415cf1c-2fb1-45c6-bbe7-4d6110f0e60b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
