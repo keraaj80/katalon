@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_addfromSP</name>
+   <tag></tag>
+   <elementGuidId>56dc7a0f-1cd3-43df-8af5-73bd927139ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.___v7xrzm0.f22iagw.f1063pyq.flvyvdh.f14z66ap.f11ysow2.f1ewtqcl.f4sjk8j > div > button.fui-Button.r1alrhcs.___d3xkgg0.f1c21dwh.f1p3nwhy.f11589ue.f1q5o8ev.f1pdflbu.fkfq4zb.fjxutwb.f1s2uweq.fr80ssc.f1ukrpxl.fecsdlb.f139oj5f.ft1hn21.fuxngvv.fwiml72.f1h0usnq.fs4ktlq.f16h9ulv.fx2bmrt.f1fg1p5m.f1dfjoow.f1j98vj9.f1tme0vf.f4xjyn1.f18onu3q.f9ddjv3.f1sbtcvk.fwiuce9.fdghr9.f15vdbe4.fwbmr0d.f44c6la</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and @title = 'Add data']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and @title = 'Add data' and @ref_element = 'Object Repository/addFromSP/Page_Test/iframe__addFromSP']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5f5f6705-3839-4505-8e41-973e619fe761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>468cd684-6917-4e95-b9b7-bf906d440229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Add data</value>
+      <webElementGuid>45b0de8f-8997-464a-a8f4-58bd9d541beb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fui-Button r1alrhcs ___d3xkgg0 f1c21dwh f1p3nwhy f11589ue f1q5o8ev f1pdflbu fkfq4zb fjxutwb f1s2uweq fr80ssc f1ukrpxl fecsdlb f139oj5f ft1hn21 fuxngvv fwiml72 f1h0usnq fs4ktlq f16h9ulv fx2bmrt f1fg1p5m f1dfjoow f1j98vj9 f1tme0vf f4xjyn1 f18onu3q f9ddjv3 f1sbtcvk fwiuce9 fdghr9 f15vdbe4 fwbmr0d f44c6la</value>
+      <webElementGuid>a7ef9525-f402-4cc6-ab07-90e199370227</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;fui-FluentProvider fui-FluentProviderr0 ___95gtr90 f19n0e5 f1vbcewu f1o700av fk6fouc fkhj508 figsok6 f1i3iumi fly5x3f f1l02sjl&quot;]/div[@class=&quot;___1p2atr0 fp058im f1euv43f ftzilyz fnivh3a fc7yr5o f1el4m67 f8yange fxugw4r f13u1uyl f65ixeh f1r8xq1f fv71qf3 f1i9awyq femm6i4 f1dvlji7 flt97l2 f5f9iw6 f8zdbyv f1235fp6 fm49dwa f1tngnc1 f1hg901r&quot;]/div[1]/div[@class=&quot;___1jydo0j f22iagw f1vx9l62 flvyvdh fly5x3f f1l02sjl f1ewtqcl f4sjk8j f1erghxr f1ehz9de f1spoy8 fmb70yw&quot;]/div[@class=&quot;___d2lnap0 f11ysow2 f14z66ap fqerorx f1p9o1ba f1sil6mw&quot;]/div[@class=&quot;___i9w38v0 f1epj1pt&quot;]/div[@class=&quot;___1wp8swp f1l02sjl&quot;]/div[@class=&quot;___1poz7jl f22iagw f1vx9l62 flvyvdh f14z66ap f1l02sjl f1ewtqcl f4sjk8j f80az4v&quot;]/div[@class=&quot;___1xshg5x f1nxs5xn fxugw4r f1e7huqf f5zp4f&quot;]/div[@class=&quot;___t11b990 f22iagw f1vx9l62 flvyvdh f14z66ap f11ysow2 f1ewtqcl f4sjk8j&quot;]/div[@class=&quot;___1tgkyuo f22iagw f1063pyq flvyvdh f14z66ap f11ysow2 f1ewtqcl f4sjk8j f122n59&quot;]/div[@class=&quot;___1ya6adg f11ysow2 f14z66ap fqerorx&quot;]/div[1]/div[@class=&quot;___153kwm0 f22iagw f1063pyq flvyvdh f14z66ap f11ysow2 f1ewtqcl f4sjk8j f1869bpl f122n59&quot;]/div[@class=&quot;___dqco7t0 f11ysow2 f14z66ap fi64zpg&quot;]/div[@class=&quot;___v7xrzm0 f22iagw f1063pyq flvyvdh f14z66ap f11ysow2 f1ewtqcl f4sjk8j&quot;]/div[1]/button[@class=&quot;fui-Button r1alrhcs ___d3xkgg0 f1c21dwh f1p3nwhy f11589ue f1q5o8ev f1pdflbu fkfq4zb fjxutwb f1s2uweq fr80ssc f1ukrpxl fecsdlb f139oj5f ft1hn21 fuxngvv fwiml72 f1h0usnq fs4ktlq f16h9ulv fx2bmrt f1fg1p5m f1dfjoow f1j98vj9 f1tme0vf f4xjyn1 f18onu3q f9ddjv3 f1sbtcvk fwiuce9 fdghr9 f15vdbe4 fwbmr0d f44c6la&quot;]</value>
+      <webElementGuid>103ba02e-51bf-49d5-ac98-b0857272b8db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/addFromSP/Page_Test/iframe__addFromSP</value>
+      <webElementGuid>6c13801d-1df5-4de7-b4bc-a27e7194071a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[13]</value>
+      <webElementGuid>e4b67997-ab21-45b5-abcf-c079cabd9555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div/div[3]/div[3]/div/div/div[2]/div/div/div/div/div/div[2]/div/div/button</value>
+      <webElementGuid>9d2ad7f0-d6f2-4b95-b150-59c0c5ecc5d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]/div/div/button</value>
+      <webElementGuid>66e08232-580c-4f63-b9a9-1a350144f09f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Add data']</value>
+      <webElementGuid>bd90787e-37da-4ae8-aa27-4587dbada9ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
