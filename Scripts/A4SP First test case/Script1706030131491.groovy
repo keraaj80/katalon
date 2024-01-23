@@ -31,10 +31,6 @@ WebUI.sendKeys(findTestObject('Page_Sign in to your account/Password'), 'TestUse
 
 WebUI.click(findTestObject('Page_Sign in to your account/input_Forgot my password_idSIButton9'))
 
-not_run: WebUI.click(findTestObject('editWebPart/Page_Test/editWebPartbutton'))
-
-not_run: WebUI.click(findTestObject('welcomeScreen/Page_Test/i_closeWelcomeScreen'))
-
 WebUI.scrollToElement(findTestObject('curlMoreOptions/layer1/Page_Test/iframe__layer1MoreOptions'), 2)
 
 WebUI.delay(15)
