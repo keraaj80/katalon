@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Second test suite" time="67.253" tests="1" failures="0" errors="0">
+   <testsuite name="Second test suite" tests="1" failures="0" errors="0" time="67.253" skipped="0" timestamp="23-01-2024T14:59:38" hostname="raa10442 - rraaj1.esri.com" id="Test Suites/Second test suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\raa10442\\git\\katalon\\Reports\\20240123_145935\\Second test suite\\20240123_145935"/>
+         <property name="logFiles" value="C:\\Users\\raa10442\\git\\katalon\\Reports\\20240123_145935\\Second test suite\\20240123_145935\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="raa10442 - rraaj1.esri.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 120.0.0.0"/>
+         <property name="hostAddress" value="10.29.51.193"/>
+         <property name="sessionId" value="0ddf1758a3caff3b82f477c8bc57b179"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/A4SP First test case" time="67.113" classname="Test Cases/A4SP First test case" status="PASSED">
+         <system-out><![CDATA[23-01-2024T14:59:38 - [TEST_CASE][PASSED] - Test Cases/A4SP First test case: Test Cases/A4SP First test case
+
+23-01-2024T14:59:38 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+23-01-2024T14:59:38 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+23-01-2024T14:59:38 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+23-01-2024T14:59:39 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+23-01-2024T14:59:39 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+23-01-2024T14:59:40 - [MESSAGE][PASSED] - Current window maximized
+
+23-01-2024T14:59:40 - [TEST_STEP][PASSED] - navigateToUrl("https://m4o365.sharepoint.com/sites/raaj2/SitePages/Test(13).aspx"): Navigate to 'https://m4o365.sharepoint.com/sites/raaj2/SitePages/Test(13).aspx' successfully
+
+23-01-2024T14:59:40 - [MESSAGE][PASSED] - Navigate to 'https://m4o365.sharepoint.com/sites/raaj2/SitePages/Test(13).aspx' successfully
+
+23-01-2024T14:59:40 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Sign in to your account/input_Sign in_loginfmt"), "Sharepointtest@m4o365.onmicrosoft.com"): Keys 'Sharepointtest@m4o365.onmicrosoft.com' sent to object: 'Object Repository/Page_Sign in to your account/input_Sign in_loginfmt'
+
+23-01-2024T14:59:42 - [MESSAGE][PASSED] - Keys 'Sharepointtest@m4o365.onmicrosoft.com' sent to object: 'Object Repository/Page_Sign in to your account/input_Sign in_loginfmt'
+
+23-01-2024T14:59:42 - [TEST_STEP][PASSED] - click(findTestObject("Page_Sign in to your account/input_Sign in_idSIButton9")): Object: 'Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9' is clicked on
+
+23-01-2024T14:59:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in to your account/input_Sign in_idSIButton9' is clicked on
+
+23-01-2024T14:59:42 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Page_Sign in to your account/Password"), "TestUser123"): Keys 'TestUser123' sent to object: 'Object Repository/Page_Sign in to your account/Password'
+
+23-01-2024T14:59:43 - [MESSAGE][PASSED] - Keys 'TestUser123' sent to object: 'Object Repository/Page_Sign in to your account/Password'
+
+23-01-2024T14:59:43 - [TEST_STEP][PASSED] - click(findTestObject("Page_Sign in to your account/input_Forgot my password_idSIButton9")): Object: 'Object Repository/Page_Sign in to your account/input_Forgot my password_idSIButton9' is clicked on
+
+23-01-2024T14:59:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in to your account/input_Forgot my password_idSIButton9' is clicked on
+
+23-01-2024T14:59:45 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("curlMoreOptions/layer1/Page_Test/iframe__layer1MoreOptions"), 2): Scroll to object 'Object Repository/curlMoreOptions/layer1/Page_Test/iframe__layer1MoreOptions' successfully
+
+23-01-2024T14:59:47 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/curlMoreOptions/layer1/Page_Test/iframe__layer1MoreOptions' successfully
+
+23-01-2024T14:59:47 - [TEST_STEP][PASSED] - delay(15): Delayed 15 second(s)
+
+23-01-2024T15:00:02 - [MESSAGE][PASSED] - Delayed 15 second(s)
+
+23-01-2024T15:00:02 - [TEST_STEP][PASSED] - waitForElementClickable(findTestObject("curlMoreOptions/layer2/Page_Test/button_layer2moreoptions"), 2): Object 'Object Repository/curlMoreOptions/layer2/Page_Test/button_layer2moreoptions' is clickable
+
+23-01-2024T15:00:03 - [MESSAGE][PASSED] - Object 'Object Repository/curlMoreOptions/layer2/Page_Test/button_layer2moreoptions' is clickable
+
+23-01-2024T15:00:03 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("curlMoreOptions/layer2/Page_Test/button_layer2moreoptions")): Object: 'Object Repository/curlMoreOptions/layer2/Page_Test/button_layer2moreoptions' is clicked on
+
+23-01-2024T15:00:03 - [MESSAGE][PASSED] - Object: 'Object Repository/curlMoreOptions/layer2/Page_Test/button_layer2moreoptions' is clicked on
+
+23-01-2024T15:00:03 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+23-01-2024T15:00:08 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+23-01-2024T15:00:08 - [TEST_STEP][PASSED] - waitForElementClickable(findTestObject("curlMoreOptions/layer2Zoom/Page_Test/button_layer2_zoom"), 2): Object 'Object Repository/curlMoreOptions/layer2Zoom/Page_Test/button_layer2_zoom' is clickable
+
+23-01-2024T15:00:09 - [MESSAGE][PASSED] - Object 'Object Repository/curlMoreOptions/layer2Zoom/Page_Test/button_layer2_zoom' is clickable
+
+23-01-2024T15:00:09 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("curlMoreOptions/layer2Zoom/Page_Test/button_layer2_zoom")): Object: 'Object Repository/curlMoreOptions/layer2Zoom/Page_Test/button_layer2_zoom' is clicked on
+
+23-01-2024T15:00:09 - [MESSAGE][PASSED] - Object: 'Object Repository/curlMoreOptions/layer2Zoom/Page_Test/button_layer2_zoom' is clicked on
+
+23-01-2024T15:00:09 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+23-01-2024T15:00:14 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+23-01-2024T15:00:14 - [TEST_STEP][PASSED] - waitForElementClickable(findTestObject("curlMoreOptions/layer1/Page_Test/iframe__layer1MoreOptions"), 0): Object 'Object Repository/curlMoreOptions/layer1/Page_Test/iframe__layer1MoreOptions' is clickable
+
+23-01-2024T15:00:14 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+23-01-2024T15:00:14 - [MESSAGE][PASSED] - Object 'Object Repository/curlMoreOptions/layer1/Page_Test/iframe__layer1MoreOptions' is clickable
+
+23-01-2024T15:00:14 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("curlMoreOptions/layer1/Page_Test/button_layer1MoreOptions")): Object: 'Object Repository/curlMoreOptions/layer1/Page_Test/button_layer1MoreOptions' is clicked on
+
+23-01-2024T15:00:15 - [MESSAGE][PASSED] - Object: 'Object Repository/curlMoreOptions/layer1/Page_Test/button_layer1MoreOptions' is clicked on
+
+23-01-2024T15:00:15 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+23-01-2024T15:00:20 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+23-01-2024T15:00:20 - [TEST_STEP][PASSED] - waitForElementClickable(findTestObject("curlMoreOptions/layer1zoom/Page_Test/button_layer1Zoom"), 0): Object 'Object Repository/curlMoreOptions/layer1zoom/Page_Test/button_layer1Zoom' is clickable
+
+23-01-2024T15:00:20 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+23-01-2024T15:00:20 - [MESSAGE][PASSED] - Object 'Object Repository/curlMoreOptions/layer1zoom/Page_Test/button_layer1Zoom' is clickable
+
+23-01-2024T15:00:20 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("curlMoreOptions/layer1zoom/Page_Test/button_layer1Zoom")): Object: 'Object Repository/curlMoreOptions/layer1zoom/Page_Test/button_layer1Zoom' is clicked on
+
+23-01-2024T15:00:20 - [MESSAGE][PASSED] - Object: 'Object Repository/curlMoreOptions/layer1zoom/Page_Test/button_layer1Zoom' is clicked on
+
+23-01-2024T15:00:20 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+23-01-2024T15:00:25 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+23-01-2024T15:00:25 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("addData/Page_Test/button_addData")): Object: 'Object Repository/addData/Page_Test/button_addData' is clicked on
+
+23-01-2024T15:00:26 - [MESSAGE][PASSED] - Object: 'Object Repository/addData/Page_Test/button_addData' is clicked on
+
+23-01-2024T15:00:26 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+23-01-2024T15:00:27 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+23-01-2024T15:00:27 - [TEST_STEP][PASSED] - sendKeys(findTestObject("searchSP/Page_Test/input_searchSP"), "Apiaries - State of Illinois"): Keys 'Apiaries - State of Illinois' sent to object: 'Object Repository/searchSP/Page_Test/input_searchSP'
+
+23-01-2024T15:00:31 - [MESSAGE][PASSED] - Keys 'Apiaries - State of Illinois' sent to object: 'Object Repository/searchSP/Page_Test/input_searchSP'
+
+23-01-2024T15:00:31 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+23-01-2024T15:00:36 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+23-01-2024T15:00:36 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("addFromSP/Page_Test/button_addfromSP")): Object: 'Object Repository/addFromSP/Page_Test/button_addfromSP' is clicked on
+
+23-01-2024T15:00:36 - [MESSAGE][PASSED] - Object: 'Object Repository/addFromSP/Page_Test/button_addfromSP' is clicked on
+
+23-01-2024T15:00:36 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+23-01-2024T15:00:41 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+23-01-2024T15:00:41 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("homeButton/Page_Test/button_Home")): Object: 'Object Repository/homeButton/Page_Test/button_Home' is clicked on
+
+23-01-2024T15:00:43 - [MESSAGE][PASSED] - Object: 'Object Repository/homeButton/Page_Test/button_Home' is clicked on
+
+23-01-2024T15:00:43 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("closeAddfromSP/Page_Test/button_closeAddfromSP")): Object: 'Object Repository/closeAddfromSP/Page_Test/button_closeAddfromSP' is clicked on
+
+23-01-2024T15:00:45 - [MESSAGE][PASSED] - Object: 'Object Repository/closeAddfromSP/Page_Test/button_closeAddfromSP' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[23-01-2024T14:59:38 - [TEST_SUITE][PASSED] - Second test suite: Test Cases/A4SP First test case]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

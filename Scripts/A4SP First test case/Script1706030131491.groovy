@@ -23,11 +23,19 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://m4o365.sharepoint.com/sites/raaj2/SitePages/Test(13).aspx')
 
+WebUI.delay(2)
+
 WebUI.sendKeys(findTestObject('Page_Sign in to your account/input_Sign in_loginfmt'), 'Sharepointtest@m4o365.onmicrosoft.com')
+
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Page_Sign in to your account/input_Sign in_idSIButton9'))
 
+WebUI.delay(2)
+
 WebUI.sendKeys(findTestObject('Page_Sign in to your account/Password'), 'TestUser123')
+
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Page_Sign in to your account/input_Forgot my password_idSIButton9'))
 

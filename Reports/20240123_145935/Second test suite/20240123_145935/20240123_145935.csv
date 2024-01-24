@@ -1,0 +1,33 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Second test suite,Chrome 120.0.0.0,,,23-01-2024 14:59:38,23-01-2024 15:00:45,1m - 7.253s,PASSED
+,,,,,,,
+Test Cases/A4SP First test case,Chrome 120.0.0.0,,,23-01-2024 14:59:38,23-01-2024 15:00:45,1m - 7.113s,PASSED
+"openBrowser("""")",Chrome 120.0.0.0,,,23-01-2024 14:59:38,23-01-2024 14:59:39,1.436s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,23-01-2024 14:59:39,23-01-2024 14:59:40,0.135s,PASSED
+"navigateToUrl(""https://m4o365.sharepoint.com/sites/raaj2/SitePages/Test(13).aspx"")",Chrome 120.0.0.0,,,23-01-2024 14:59:40,23-01-2024 14:59:40,0.818s,PASSED
+"sendKeys(findTestObject(""Page_Sign in to your account/input_Sign in_loginfmt""), ""Sharepointtest@m4o365.onmicrosoft.com"")",Chrome 120.0.0.0,,,23-01-2024 14:59:40,23-01-2024 14:59:42,1.075s,PASSED
+"click(findTestObject(""Page_Sign in to your account/input_Sign in_idSIButton9""))",Chrome 120.0.0.0,,,23-01-2024 14:59:42,23-01-2024 14:59:42,0.346s,PASSED
+"sendKeys(findTestObject(""Page_Sign in to your account/Password""), ""TestUser123"")",Chrome 120.0.0.0,,,23-01-2024 14:59:42,23-01-2024 14:59:43,1.005s,PASSED
+"click(findTestObject(""Page_Sign in to your account/input_Forgot my password_idSIButton9""))",Chrome 120.0.0.0,,,23-01-2024 14:59:43,23-01-2024 14:59:45,1.848s,PASSED
+"scrollToElement(findTestObject(""curlMoreOptions/layer1/Page_Test/iframe__layer1MoreOptions""), 2)",Chrome 120.0.0.0,,,23-01-2024 14:59:45,23-01-2024 14:59:47,2.251s,PASSED
+delay(15),Chrome 120.0.0.0,,,23-01-2024 14:59:47,23-01-2024 15:00:02,15.037s,PASSED
+"waitForElementClickable(findTestObject(""curlMoreOptions/layer2/Page_Test/button_layer2moreoptions""), 2)",Chrome 120.0.0.0,,,23-01-2024 15:00:02,23-01-2024 15:00:03,0.747s,PASSED
+"enhancedClick(findTestObject(""curlMoreOptions/layer2/Page_Test/button_layer2moreoptions""))",Chrome 120.0.0.0,,,23-01-2024 15:00:03,23-01-2024 15:00:03,0.511s,PASSED
+delay(5),Chrome 120.0.0.0,,,23-01-2024 15:00:03,23-01-2024 15:00:08,5.022s,PASSED
+"waitForElementClickable(findTestObject(""curlMoreOptions/layer2Zoom/Page_Test/button_layer2_zoom""), 2)",Chrome 120.0.0.0,,,23-01-2024 15:00:08,23-01-2024 15:00:09,0.341s,PASSED
+"enhancedClick(findTestObject(""curlMoreOptions/layer2Zoom/Page_Test/button_layer2_zoom""))",Chrome 120.0.0.0,,,23-01-2024 15:00:09,23-01-2024 15:00:09,0.380s,PASSED
+delay(5),Chrome 120.0.0.0,,,23-01-2024 15:00:09,23-01-2024 15:00:14,5.011s,PASSED
+"waitForElementClickable(findTestObject(""curlMoreOptions/layer1/Page_Test/iframe__layer1MoreOptions""), 0)",Chrome 120.0.0.0,,,23-01-2024 15:00:14,23-01-2024 15:00:14,0.304s,PASSED
+"enhancedClick(findTestObject(""curlMoreOptions/layer1/Page_Test/button_layer1MoreOptions""))",Chrome 120.0.0.0,,,23-01-2024 15:00:14,23-01-2024 15:00:15,0.423s,PASSED
+delay(5),Chrome 120.0.0.0,,,23-01-2024 15:00:15,23-01-2024 15:00:20,5.012s,PASSED
+"waitForElementClickable(findTestObject(""curlMoreOptions/layer1zoom/Page_Test/button_layer1Zoom""), 0)",Chrome 120.0.0.0,,,23-01-2024 15:00:20,23-01-2024 15:00:20,0.348s,PASSED
+"enhancedClick(findTestObject(""curlMoreOptions/layer1zoom/Page_Test/button_layer1Zoom""))",Chrome 120.0.0.0,,,23-01-2024 15:00:20,23-01-2024 15:00:20,0.384s,PASSED
+delay(5),Chrome 120.0.0.0,,,23-01-2024 15:00:20,23-01-2024 15:00:25,5.015s,PASSED
+"enhancedClick(findTestObject(""addData/Page_Test/button_addData""))",Chrome 120.0.0.0,,,23-01-2024 15:00:25,23-01-2024 15:00:26,0.408s,PASSED
+delay(1),Chrome 120.0.0.0,,,23-01-2024 15:00:26,23-01-2024 15:00:27,1.015s,PASSED
+"sendKeys(findTestObject(""searchSP/Page_Test/input_searchSP""), ""Apiaries - State of Illinois"")",Chrome 120.0.0.0,,,23-01-2024 15:00:27,23-01-2024 15:00:31,3.974s,PASSED
+delay(5),Chrome 120.0.0.0,,,23-01-2024 15:00:31,23-01-2024 15:00:36,5.016s,PASSED
+"enhancedClick(findTestObject(""addFromSP/Page_Test/button_addfromSP""))",Chrome 120.0.0.0,,,23-01-2024 15:00:36,23-01-2024 15:00:36,0.378s,PASSED
+delay(5),Chrome 120.0.0.0,,,23-01-2024 15:00:36,23-01-2024 15:00:41,5.015s,PASSED
+"enhancedClick(findTestObject(""homeButton/Page_Test/button_Home""))",Chrome 120.0.0.0,,,23-01-2024 15:00:41,23-01-2024 15:00:43,1.515s,PASSED
+"enhancedClick(findTestObject(""closeAddfromSP/Page_Test/button_closeAddfromSP""))",Chrome 120.0.0.0,,,23-01-2024 15:00:43,23-01-2024 15:00:45,2.085s,PASSED
