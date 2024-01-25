@@ -37,7 +37,15 @@ WebUI.sendKeys(findTestObject('Testrun1/Password'), 'Jox37489')
 
 WebUI.click(findTestObject('Testrun1/input_Forgot my password_idSIButton9'))
 
+WebUI.delay(2)
+
+WebUI.click(findTestObject('initStaySignedIn/Page_Sign in to your account/input_staysignedin'))
+
+WebUI.delay(2)
+
 WebUI.click(findTestObject('Testrun1/span_testSPEditPage'))
+
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Testrun1/button_closewlcmscrn'))
 
