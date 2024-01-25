@@ -21,13 +21,13 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://m4o365.sharepoint.com/sites/raaj2/SitePages/Test(14).aspx')
+WebUI.navigateToUrl('https://4zdz0q.sharepoint.com/sites/a4sp/SitePages/Test(1).aspx')
 
-WebUI.sendKeys(findTestObject('Testrun1/input_Sign in_loginfmt'), 'Sharepointtest@m4o365.onmicrosoft.com')
+WebUI.sendKeys(findTestObject('Testrun1/input_Sign in_loginfmt'), 'rraaj@4zdz0q.onmicrosoft.com')
 
 WebUI.click(findTestObject('Testrun1/input_Sign in_idSIButton9'))
 
-WebUI.sendKeys(findTestObject('Testrun1/Password'), 'TestUser123')
+WebUI.sendKeys(findTestObject('Testrun1/Password'), 'Jox37489')
 
 WebUI.click(findTestObject('Testrun1/input_Forgot my password_idSIButton9'))
 
