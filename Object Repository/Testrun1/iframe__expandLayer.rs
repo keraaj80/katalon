@@ -6,12 +6,12 @@
    <elementGuidId>82895dd9-9736-4d64-9961-75baebd5b57f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//iframe[@id='esri-map-3e28d587-e38a-48df-847b-1596b430a52f']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#esri-map-3e28d587-e38a-48df-847b-1596b430a52f</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

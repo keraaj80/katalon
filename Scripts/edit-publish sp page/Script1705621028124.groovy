@@ -47,7 +47,7 @@ WebUI.click(findTestObject('Testrun1/span_testSPEditPage'))
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Testrun1/button_closewlcmscrn'))
+WebUI.click(findTestObject('testCloseWelcomeScreen/Page_Test/span_closeWelcomeScreen'))
 
 WebUI.delay(5)
 

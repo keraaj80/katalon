@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_closeWelcomeScreen</name>
+   <tag></tag>
+   <elementGuidId>b067efc8-4700-4033-9410-7db20ca2ce44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ms-Button.ms-Button--icon.root-287 > span.ms-Button-flexContainer.flexContainer-148</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div[2]/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>68d17301-4b06-4402-b11f-a9c1237cf534</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ms-Button-flexContainer flexContainer-148</value>
+      <webElementGuid>7efb5315-0600-4f26-ae35-5359369084df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automationid</name>
+      <type>Main</type>
+      <value>splitbuttonprimary</value>
+      <webElementGuid>caeef5fe-96b2-4ce1-a822-c91b0a209d0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>72bce98b-00ce-464f-a5c0-996fc2fd97a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ModalFocusTrapZone149&quot;)/div[@class=&quot;ms-Modal-scrollableContent scrollableContent-280&quot;]/div[@class=&quot;header-193&quot;]/button[@class=&quot;ms-Button ms-Button--icon root-287&quot;]/span[@class=&quot;ms-Button-flexContainer flexContainer-148&quot;]</value>
+      <webElementGuid>74480fba-53ed-4325-bdec-bbe8c82fc9f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ModalFocusTrapZone149']/div[2]/div/button/span</value>
+      <webElementGuid>ed672ee8-9542-4670-a60d-330964a725f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/button/span</value>
+      <webElementGuid>33735660-0cb1-4e4e-94e2-683b6f353e44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '' or . = '')]</value>
+      <webElementGuid>42ee8703-6ea9-4e5c-a1d8-98cbb851d4a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
