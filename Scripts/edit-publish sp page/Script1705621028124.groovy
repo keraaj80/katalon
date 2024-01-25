@@ -23,9 +23,15 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://4zdz0q.sharepoint.com/sites/a4sp/SitePages/Test(1).aspx')
 
+WebUI.delay(2)
+
 WebUI.sendKeys(findTestObject('Testrun1/input_Sign in_loginfmt'), 'rraaj@4zdz0q.onmicrosoft.com')
 
+WebUI.delay(2)
+
 WebUI.click(findTestObject('Testrun1/input_Sign in_idSIButton9'))
+
+WebUI.delay(2)
 
 WebUI.sendKeys(findTestObject('Testrun1/Password'), 'Jox37489')
 
