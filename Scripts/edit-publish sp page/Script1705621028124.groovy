@@ -37,19 +37,23 @@ WebUI.sendKeys(findTestObject('Testrun1/Password'), 'TestUser123')
 
 WebUI.click(findTestObject('Testrun1/input_Forgot my password_idSIButton9'))
 
-WebUI.delay(5)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('Testrun1/span_testSPEditPage'))
 
-WebUI.delay(2)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('testCloseWelcomeScreen/Page_Test/span_closeWelcomeScreen'))
 
-WebUI.delay(5)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('Testrun1/span_Republish'))
 
 WebUI.delay(5)
 
+WebUI.scrollToElement(findTestObject('Testrun1/iframe__expandLayer'), 1)
+
 WebUI.enhancedClick(findTestObject('Testrun1/button_expandLayerbutton'))
+
+WebUI.delay(2)
 
