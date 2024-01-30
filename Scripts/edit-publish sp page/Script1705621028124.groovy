@@ -53,7 +53,7 @@ WebUI.delay(5)
 
 WebUI.scrollToElement(findTestObject('Testrun1/iframe__expandLayer'), 1)
 
-WebUI.delay(2)
+WebUI.delay(5)
 
 WebUI.enhancedClick(findTestObject('Testrun1/button_expandLayerbutton'))
 
