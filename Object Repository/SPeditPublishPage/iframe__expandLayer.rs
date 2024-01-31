@@ -6,12 +6,12 @@
    <elementGuidId>82895dd9-9736-4d64-9961-75baebd5b57f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#esri-map-3e28d587-e38a-48df-847b-1596b430a52f</value>
+         <key>XPATH</key>
+         <value>(//iframe)[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//iframe</value>
+         <key>CSS</key>
+         <value>#esri-map-3e28d587-e38a-48df-847b-1596b430a52f</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>iframe</value>
-      <webElementGuid>1751929f-95fa-4894-baf5-5eacc870960b</webElementGuid>
+      <webElementGuid>60907244-0945-4166-bf89-7f8bcb07ced3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>frameborder</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>b23eb46a-f683-4225-9553-4f87f10bf369</webElementGuid>
+      <webElementGuid>5934dafb-ea17-4416-8897-cd1d21dba639</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>scrolling</name>
       <type>Main</type>
       <value>no</value>
-      <webElementGuid>91cd14b2-4d03-47bc-b557-55fb637289a9</webElementGuid>
+      <webElementGuid>c9ae096c-d507-450e-80c2-c50cd7045e91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>esri-map-3e28d587-e38a-48df-847b-1596b430a52f</value>
-      <webElementGuid>f1d8f566-68cf-4eb1-88d5-7f5921fd5a17</webElementGuid>
+      <webElementGuid>c3f3337f-1bfa-43c0-b454-b14328d8de04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>allow</name>
       <type>Main</type>
       <value>clipboard-read;clipboard-write;geolocation</value>
-      <webElementGuid>e141acef-301f-4b4a-92f2-88b1ca5c1e62</webElementGuid>
+      <webElementGuid>149f078c-2265-4481-94a5-11751e217432</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>width</name>
       <type>Main</type>
       <value>100%</value>
-      <webElementGuid>2d3a2dd7-19a6-4e4e-8f8b-1720a1a8f50b</webElementGuid>
+      <webElementGuid>564d1fec-3c30-4312-8ee4-e154560b3d12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>height</name>
       <type>Main</type>
       <value>600</value>
-      <webElementGuid>e009d2b7-48f0-4d97-b667-ee69d631d846</webElementGuid>
+      <webElementGuid>84f6f5ce-5285-4c9d-82de-a6187cea2314</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://skywalker.esri.com/emaf/SP3097/reactapp/?webpartInstanceId=3e28d587-e38a-48df-847b-1596b430a52f&amp;isVisitor=0&amp;3d=0&amp;locale=en-us&amp;parentOrigin=https://m4o365.sharepoint.com/sites/raaj2/SitePages/Test(14).aspx&amp;isEditMode=0&amp;isInTeams=0&amp;isInBrowser=1</value>
-      <webElementGuid>b1a277de-ca63-414b-a3c0-22538a9608a3</webElementGuid>
+      <webElementGuid>7c0dc9cc-9cfa-490f-86fd-000bb0b67884</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;esri-map-3e28d587-e38a-48df-847b-1596b430a52f&quot;)</value>
-      <webElementGuid>f637b442-6df7-4a13-a7a0-bfe9a5f2ee5b</webElementGuid>
+      <webElementGuid>3a06014f-e143-441c-a55d-34d6560fa289</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//iframe[@id='esri-map-3e28d587-e38a-48df-847b-1596b430a52f']</value>
-      <webElementGuid>4649a5bf-dcb2-43d0-9f91-98bc5fef82a1</webElementGuid>
+      <webElementGuid>c7dd642e-9466-4905-9143-1ce73d1b5ba2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='vpc_WebPart.ArcGisMapsWebPart.external.3e28d587-e38a-48df-847b-1596b430a52f']/div/div/iframe</value>
-      <webElementGuid>e475afcc-1280-4617-85b4-567f211d9376</webElementGuid>
+      <webElementGuid>eb8ce24f-8585-485b-9f36-90e9a5e17d74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//iframe</value>
-      <webElementGuid>ba038ce8-dc48-4cc8-be02-46e1e8417534</webElementGuid>
+      <webElementGuid>0c402f1d-807e-4fcc-8e71-2ad81dc2bc1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//iframe[@id = 'esri-map-3e28d587-e38a-48df-847b-1596b430a52f' and @src = 'https://skywalker.esri.com/emaf/SP3097/reactapp/?webpartInstanceId=3e28d587-e38a-48df-847b-1596b430a52f&amp;isVisitor=0&amp;3d=0&amp;locale=en-us&amp;parentOrigin=https://m4o365.sharepoint.com/sites/raaj2/SitePages/Test(14).aspx&amp;isEditMode=0&amp;isInTeams=0&amp;isInBrowser=1']</value>
-      <webElementGuid>f87acccb-51af-409b-be41-0b96b4944f25</webElementGuid>
+      <webElementGuid>a00dfdfb-98f5-4d0c-9f61-8c533cbdf769</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

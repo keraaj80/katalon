@@ -25,21 +25,21 @@ WebUI.navigateToUrl('https://m4o365.sharepoint.com/sites/raaj2/SitePages/Test(13
 
 WebUI.delay(2)
 
-WebUI.sendKeys(findTestObject('Testrun1/input_Sign in_loginfmt'), 'SharePointTest@m4o365.onmicrosoft.com')
+WebUI.sendKeys(findTestObject('SPeditPublishPage/input_Sign in_loginfmt'), 'SharePointTest@m4o365.onmicrosoft.com')
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Testrun1/input_Sign in_idSIButton9'))
+WebUI.click(findTestObject('SPeditPublishPage/input_Sign in_idSIButton9'))
 
 WebUI.delay(2)
 
-WebUI.sendKeys(findTestObject('Testrun1/Password'), 'TestUser123')
+WebUI.sendKeys(findTestObject('SPeditPublishPage/Password'), 'TestUser123')
 
-WebUI.click(findTestObject('Testrun1/input_Forgot my password_idSIButton9'))
+WebUI.click(findTestObject('SPeditPublishPage/input_Forgot my password_idSIButton9'))
 
 WebUI.delay(10)
 
-WebUI.click(findTestObject('Testrun1/span_testSPEditPage'))
+WebUI.click(findTestObject('SPeditPublishPage/span_testSPEditPage'))
 
 WebUI.delay(10)
 
@@ -47,15 +47,15 @@ WebUI.click(findTestObject('testCloseWelcomeScreen/Page_Test/span_closeWelcomeSc
 
 WebUI.delay(10)
 
-WebUI.click(findTestObject('Testrun1/span_Republish'))
+WebUI.click(findTestObject('SPeditPublishPage/span_Republish'))
 
 WebUI.delay(5)
 
-WebUI.scrollToElement(findTestObject('Testrun1/iframe__expandLayer'), 1)
+WebUI.scrollToElement(findTestObject('SPeditPublishPage/iframe__expandLayer'), 1)
 
 WebUI.delay(5)
 
-WebUI.enhancedClick(findTestObject('Testrun1/button_expandLayerbutton'))
+WebUI.enhancedClick(findTestObject('SPeditPublishPage/button_expandLayerbutton'))
 
 WebUI.delay(2)
 

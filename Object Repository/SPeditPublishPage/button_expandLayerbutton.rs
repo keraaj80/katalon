@@ -61,7 +61,7 @@
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Testrun1/iframe__expandLayer</value>
+      <value>Object Repository/SPeditPublishPage/iframe__expandLayer</value>
       <webElementGuid>6847fa8f-c10e-4097-b790-a67487ac8e0e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
